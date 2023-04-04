@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoaquinCineAPI", "JoaquinCineAPI\JoaquinCineAPI.csproj", "{2C18C78D-B67F-459A-A6EE-59AEAF74F103}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoaquinCineAPI.Infraestructura", "JoaquinCineAPI.Infraestructura\JoaquinCineAPI.Infraestructura.csproj", "{434CB567-B80C-43F3-BB9F-6DA35C1287E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoaquinCineAPI.Modelo", "JoaquinCineAPI.Modelo\JoaquinCineAPI.Modelo.csproj", "{702FB188-18EF-45A0-A9F9-3890892BA189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C18C78D-B67F-459A-A6EE-59AEAF74F103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C18C78D-B67F-459A-A6EE-59AEAF74F103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C18C78D-B67F-459A-A6EE-59AEAF74F103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C18C78D-B67F-459A-A6EE-59AEAF74F103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{434CB567-B80C-43F3-BB9F-6DA35C1287E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{434CB567-B80C-43F3-BB9F-6DA35C1287E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{434CB567-B80C-43F3-BB9F-6DA35C1287E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{434CB567-B80C-43F3-BB9F-6DA35C1287E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{702FB188-18EF-45A0-A9F9-3890892BA189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{702FB188-18EF-45A0-A9F9-3890892BA189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{702FB188-18EF-45A0-A9F9-3890892BA189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{702FB188-18EF-45A0-A9F9-3890892BA189}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA08C3E6-C0E5-4A4D-9180-863A3E901C2C}
+	EndGlobalSection
+EndGlobal

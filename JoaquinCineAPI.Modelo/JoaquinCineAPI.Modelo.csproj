@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Modelo\Pelicula.cs~RF1acf2fb5.TMP" />
+    <None Remove="Modelo\Pelicula.cs~RF1ae107d2.TMP" />
+    <None Remove="Modelo\Reserva.cs~RF1ad0af8e.TMP" />
+    <None Remove="Modelo\Reserva.cs~RF1ad1ca94.TMP" />
+    <None Remove="Modelo\Reserva.cs~RF1b0d994e.TMP" />
+    <None Remove="Modelo\Reserva.cs~RF1b422323.TMP" />
+    <None Remove="Modelo\Reserva.cs~RF1b44ca46.TMP" />
+  </ItemGroup>
+
+</Project>

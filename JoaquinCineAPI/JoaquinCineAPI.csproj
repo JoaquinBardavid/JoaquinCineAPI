@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="appsettings.json~RF1b4e9347.TMP" />
+    <None Remove="Request\NuevaReservaRequest.cs~RF132b2f42.TMP" />
+    <None Remove="Request\NuevaReservaRequest.cs~RF132bb579.TMP" />
+    <None Remove="Request\UpdatePeliculaRequest.cs~RFf6cf569.TMP" />
+    <None Remove="Response\GetPeliculaResponse.cs~RF12b6e55c.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JoaquinCineAPI.Infraestructura\JoaquinCineAPI.Infraestructura.csproj" />
+  </ItemGroup>
+
+</Project>
